@@ -1,0 +1,85 @@
+h2{
+    margin-left: 320px;
+    color:#0D7605; 
+    
+    
+}
+.line{
+margin-left: 190px;
+text-decoration: line-through;
+
+}
+h5{
+    word-spacing: 380px;
+    margin-right: 20px;
+}
+
+    div{
+    margin-left: 300px;
+    width: 400px;
+    word-spacing: 1px;
+    
+    
+
+}
+.total{
+    color: black;
+}
+.submit{
+background-color: #0D7605;
+
+margin-left: 300px;
+height:40px;
+width:400px;
+}
+.free{
+    text-align:left;
+    color: #0D7605;
+}
+.most{
+    color:#0D7605;
+    text-align: right;
+
+    
+}
+.container{
+margin-right: 100px;
+}
+p{
+    text-align: right;
+
+}
+.DKK{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.off{
+text-align: right;
+}
+.first{
+margin-left: 5px;
+}
+.firstpair{
+    height: 84px;
+margin-bottom: 10px;
+
+
+}
+.secpair{
+    height: 220px;
+    line-height: 1px;
+    margin-top: 5px;
+}
+.thirdpair{
+    height: 83px;
+}
+.label{
+    margin-left: 20px;
+    word-spacing: 5px;
+    margin-top: 20px;
+
+}
+.©{
+margin-left: 530px;}
